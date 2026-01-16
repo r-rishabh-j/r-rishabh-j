@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a robotics and artificial intelligence enthusiast, currently an MSCS student at Columbia University. I graduated from Indian Institute of Technology Ropar with a Bachelor’s in Computer Science with an Honors in Artificial Intelligence. My research interests primarily revolve around computer vision, robotics and federated learning. I recently started exploring natural language processing and am working on some cool projects!
+I am currently an MSCS student at Columbia University. My research interests are in efficient model inference, computer vision, and robotics. 
