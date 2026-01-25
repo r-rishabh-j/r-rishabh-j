@@ -56,4 +56,4 @@ Fuses PointNet 3D encoding with egocentric vision. **70% zero-shot success** on 
 
 ### 📫 Connect
 
-[Website](https://r-rishabh-j.github.io) • [LinkedIn](https://linkedin.com/in/rishabhj11) • [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) • rj2790@columbia.edu
+[Website](https://r-rishabh-j.github.io) • [LinkedIn](https://linkedin.com/in/rishabhj11) • [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
