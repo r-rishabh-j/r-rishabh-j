@@ -51,9 +51,3 @@ Fuses PointNet 3D encoding with egocentric vision. **70% zero-shot success** on 
 ---
 
 **Stack:** Python, C++, PyTorch, HuggingFace, CUDA, MuJoCo
-
----
-
-### 📫 Connect
-
-[Website](https://r-rishabh-j.github.io) • [LinkedIn](https://linkedin.com/in/rishabhj11) • [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
