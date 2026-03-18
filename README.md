@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **MS CS (Machine Learning) @ Columbia University**
 
-I build systems that make ML inference faster. My research interests are in efficient LLMs training and inferece, computer vision and robotics.
+I build systems that make ML inference faster. My research interests are in efficient LLM training and inference, computer vision and robotics.
 
 ### 🔥 Featured Work
 
